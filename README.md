@@ -146,4 +146,9 @@ enterprise-ospf-centralized-dhcp/
 - SSH does not start: configure the domain name before generating RSA keys, use SSH v2, and check local login/VTY settings.
 - A /30 link does not communicate: confirm both endpoints are in the same /30 subnet and interfaces are enabled.
 
+## Conclusion
+This project documents the design of an enterprise-style network in EVE-NG using four interconnected routers, OSPF Area 0, loopback interfaces, three LAN segments, and a centralized DHCP service with relay configuration. It also covers SSH-based remote management to demonstrate basic network-device security practices.
+
+The lab brings together important CCNA-level networking concepts, including IPv4 addressing and subnetting, point-to-point links, dynamic routing, DHCP relay, and secure device administration.
+
 
