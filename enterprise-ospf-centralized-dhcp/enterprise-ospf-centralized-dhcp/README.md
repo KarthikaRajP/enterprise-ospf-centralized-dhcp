@@ -131,18 +131,12 @@ enterprise-ospf-centralized-dhcp/
 ├── topology/
 │   └── enterprise-topology.png
 ├── configurations/
-│   ├── R1.txt
-│   ├── R2.txt
-│   ├── R3.txt
-│   ├── R4.txt
-│   └── DHCP-SERVER.txt
-├── docs/
-│   └── project-design-notes.docx
-└── verification/
-    ├── ospf-neighbors/
-    ├── routing-tables/
-    ├── dhcp-leases/
-    └── connectivity-tests/
+    ├── R1.txt
+    ├── R2.txt
+    ├── R3.txt
+    ├── R4.txt
+    └── DHCP-SERVER.txt
+
 ```
 
 ## Troubleshooting notes
