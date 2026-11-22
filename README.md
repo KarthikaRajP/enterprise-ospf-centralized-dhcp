@@ -25,7 +25,7 @@ A Cisco IOS networking lab built in **EVE-NG** to practise dynamic routing, cent
 
 ## Topology
 
-![EVE-NG enterprise OSPF topology](topology/enterprise-topology.png)
+<img width="1543" height="857" alt="Screenshot 2026-11-22 122027" src="https://github.com/user-attachments/assets/e636b128-9813-41cd-8875-de562daa4be7" />
 
 The uploaded EVE-NG diagram contains:
 
