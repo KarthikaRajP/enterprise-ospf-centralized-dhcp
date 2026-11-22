@@ -152,6 +152,3 @@ enterprise-ospf-centralized-dhcp/
 - SSH does not start: configure the domain name before generating RSA keys, use SSH v2, and check local login/VTY settings.
 - A /30 link does not communicate: confirm both endpoints are in the same /30 subnet and interfaces are enabled.
 
-## Notes on differences between the design document and the uploaded EVE-NG topology
-
-The design document describes two access switches and refers to FastEthernet/serial interface names in examples. The uploaded EVE-NG screenshot shows three switches and GigabitEthernet interfaces. This repository follows the **uploaded EVE-NG screenshot** for the topology/interface map and uses the design document for the intended IP plan and OSPF/DHCP/SSH requirements. Check actual device configs before treating this as a final as-built record.
